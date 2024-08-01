@@ -1,0 +1,14 @@
+h4{
+    color: red;
+}
+.section-2{
+    color: white;
+    background-color: black;
+}
+.subsec-15{
+    font-weight: 100;
+}
+.subsec-15 h1{
+    text-align: center;
+}
+
